@@ -1,7 +1,5 @@
-<a href="https://www.llamacoder.io">
-  <img alt="Llama Coder" src="./public/og-image.png">
-  <h1 align="center">Llama Coder</h1>
-</a>
+#  <h1 align="center">Smol Agents</h1>
+
 
 <p align="center">
   An open source Claude Artifacts – generate small apps with one prompt. Powered by Llama 3 on Together.ai.
@@ -18,7 +16,7 @@
 
 ## Cloning & running
 
-1. Clone the repo: `git clone https://github.com/Nutlope/llamacoder`
+1. Clone the repo: `git clone https://github.com/mbergo/smol-agents.git`
 2. Create a `.env` file and add your [Together AI API key](https://togetherai.link/?utm_source=example-app&utm_medium=llamacoder&utm_campaign=llamacoder-app-signup): `TOGETHER_API_KEY=`
 3. Run `npm install` and `npm run dev` to install dependencies and run locally
 
